@@ -1,0 +1,13 @@
+# Ignore patterns for chezmoi
+
+# gitignore
+.gitignore
+
+# Repository specific files
+README.md
+
+# Editconfig
+.editorconfig
+
+# Makefile
+Makefile
